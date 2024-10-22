@@ -1,0 +1,17 @@
+Problemas del enfoque en cascada:
+Vamos a hablar de la cascada, sí, el chico malo de la ciudad, el que todo el mundo odia. La idea principal de la metodología en cascada es:
+
+Obtenemos los requisitos, lo que queremos hacer, las necesidades de los interesados.
+Se planifica cómo hacerlo, a menudo con un análisis y diseño de la solución.
+Se implementa, creando software funcional.
+Se entrega el software y se espera el feedback, creando documentación durante el proceso.
+Mantenimiento de la solución funcional.
+Una vez que entregamos la solución, pedimos feedback y si necesitamos cambiar algo, comenzamos todo el proceso nuevamente.
+
+Esto es genial siempre y cuando los requisitos sean super estables y sepamos que no cambiarán durante la implementación, algo que en el mundo real es prácticamente imposible ya que SIEMPRE cambian.
+
+Si fuéramos una tela, no tendríamos ninguno de estos problemas, ya que sabemos los materiales específicos necesarios para crear algo, los colocamos en la máquina, y el resultado siempre será el mismo.
+
+Pero trabajamos con soluciones de software para satisfacer las necesidades de las personas, y estas siempre cambian y evolucionan. Aquí viene el mayor problema con la metodología en cascada. Tenemos que esperar hasta el final de la implementación para recibir comentarios y luego comenzar todo el proceso nuevamente, ¿y qué pasa si las necesidades del usuario han cambiado en el ínterin? Acabamos de desperdiciar mucho tiempo útil.
+
+Una gran analogía es la del piloto de un avión, le gustaría ser informado lo antes posible si hay algún problema con el avión y no esperar hasta que el motor falle, o peor aún, el avión se estrelle para recibir una notificación.
